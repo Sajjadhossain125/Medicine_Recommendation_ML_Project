@@ -1,6 +1,6 @@
 # **Medicine Recommendation ML Project**
 
-![Project Banner](path/to/your/image.png)  
+![Project Banner](asset/Result.png)  
 *A Machine Learning-based solution for personalized medicine recommendations.*
 
 ---
