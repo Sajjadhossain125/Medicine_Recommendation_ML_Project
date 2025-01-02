@@ -90,6 +90,7 @@ The **Medicine Recommendation System** uses Machine Learning to predict diseases
 ---
 
 ## **Setup Instructions**
+  ```bash
 cd medicine-recommendation-ml-project
 
 python -m venv environment
@@ -97,6 +98,7 @@ python -m venv environment
 pip install -r requirements.txt
 
 python manage.py runserver
+```
 
 
 
