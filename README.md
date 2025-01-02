@@ -85,7 +85,7 @@ The **Medicine Recommendation System** uses Machine Learning to predict diseases
   ![Homepage](path/to/homepage_image.png)
 
 - **Disease Prediction Results**  
-  ![Prediction Results](path/to/results_image.png)
+  ![Prediction Results](asset/result2.png)
 
 ---
 
