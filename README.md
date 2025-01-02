@@ -90,6 +90,17 @@ The **Medicine Recommendation System** uses Machine Learning to predict diseases
 ---
 
 ## **Setup Instructions**
+cd medicine-recommendation-ml-project
+
+python -m venv environment
+
+pip install -r requirements.txt
+
+python manage.py runserver
+
+
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/medicine-recommendation-ml-project.git
